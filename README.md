@@ -27,21 +27,9 @@ The Empathy Ontology structures concepts hierarchically. Primary dimensions incl
 
 These encompass sub-dimensions, capturing hierarchical relationships.
 
-## Representing Imprecise Perception
-
-The ontology accommodates imprecision via "Uncertainty_interval". It captures upper and lower bounds of imprecise perceptions, enabling uncertain measures assessment.
-
-## Semantic Interdependencies
-
-The ontology models semantic interdependencies between empathy dimensions based on cognitive science and social cognition theories. Object properties formalize complex chains of dependencies.
-
-## Usage
-
-The Empathy Ontology aids researchers and practitioners in understanding, evaluating, and implementing computational empathy. It standardizes discussing and representing empathy in computational systems.
-
 ## Examples and Applications
 
-The Empathy Ontology finds applications in, e.g., Human-Computer Interaction, Artificial Intelligence, virtual agents, and social robots. It assesses perceptions of empathetic capabilities, which may lead to improved interactions.
+The Empathy Ontology aids researchers and practitioners in understanding, evaluating, and implementing computational empathy. It standardizes discussing and representing empathy in computational systems. The Empathy Ontology finds applications in, e.g., Human-Computer Interaction, Artificial Intelligence, virtual agents, and social robots. It assesses perceptions of empathetic capabilities, which may lead to improved interactions.
 
 ## License
 
