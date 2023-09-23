@@ -30,4 +30,19 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 The Empathy Ontology aids researchers and practitioners in understanding, evaluating, and implementing computational empathy. It standardizes discussing and representing empathy in computational systems. The Empathy Ontology finds applications in, e.g., Human-Computer Interaction, Artificial Intelligence, virtual agents, and social robots. It assesses perceptions of empathetic capabilities, which may lead to improved interactions.
 
+## Explore the ontology 
 
+
+
+## Run in ontology reasoner
+
+* Ontology reasoner: BaseVISor
+* BaseVISor 2.0.2 is licensed for academic and research use free of charge; all other uses require a commercial license at VIStology, Inc.
+* Supported syntaxes: RDF/XML, OWL/XML, All OWL API
+* Supported reasoning services: realisation, classification, satisfiability, conjunctive query answering, entailment, consistency.
+* Creators of BaseVISor: VIStology, Inc.
+* More info: https://www.vistology.com/products/
+
+Create a .bvr file according to the BaseVISor documentation, and do the following: 
+  * Add relativePath="ontology.owl" and set it to the path of the ontology in your local drive.
+  * Run the BaseVISor executable with your .bvr file.
