@@ -1,8 +1,7 @@
 # Computational Empathy Ontology <This page is under construction>
 This repository presents an ontology defining the concept we call "computational empathy". This regards a herarchy of sub-concepts for understanding perceptions of empathy in computational systems. In order to enable interoperability with a wide range of knowledge-based systems, the ontology is implemented in Web Ontology Language (OWL).
 
-## Background
-Empathy is a complex construct, and this ontology provides a formal representation of its facets. Rooted in a qualitative analysis using grounded theory, the ontology formalizes empathy for interactive agents. Abstract concepts enable measurement and evaluation of empathetic performance.
+Empathy is a complex construct, and this ontology provides a formal representation of its facets. Rooted in a qualitative analysis using grounded theory, the ontology formalizes empathy for interactive agents. 
 
 ![Empathy Ontology](https://github.com/ComputationalEmpathy/empathy-ontology/blob/f9af1c7ebc78cf088df2d85e158f7dc05051015d/empathy_ontology.png).
 
