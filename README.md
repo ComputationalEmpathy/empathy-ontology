@@ -30,10 +30,4 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 The Empathy Ontology aids researchers and practitioners in understanding, evaluating, and implementing computational empathy. It standardizes discussing and representing empathy in computational systems. The Empathy Ontology finds applications in, e.g., Human-Computer Interaction, Artificial Intelligence, virtual agents, and social robots. It assesses perceptions of empathetic capabilities, which may lead to improved interactions.
 
-## License
-
-This ontology is provided under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
-
-
-
 
