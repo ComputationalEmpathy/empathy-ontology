@@ -30,9 +30,9 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 ## Examples and Applications
 
-The Empathy Ontology aids researchers and practitioners in understanding, evaluating, and implementing computational empathy. It standardizes discussing and representing empathy in computational systems. The Empathy Ontology finds applications in, e.g., Human-Computer Interaction, Artificial Intelligence, virtual agents, and social robots. It assesses perceptions of empathetic capabilities, which may lead to improved interactions.
+The Empathy Ontology aids researchers and practitioners in understanding, assessing, and implementing computational empathy. It standardizes discussing and representing empathy in computational systems. The Empathy Ontology finds applications in, e.g., Human-Computer Interaction, Artificial Intelligence, virtual agents, and social robots.
 
-## Explore the ontology using the open-source ontology editor - Protege
+## Explore the ontology in open-source ontology editor - Protege
 
 * Download Protege: https://protege.stanford.edu/
 * Install the OWLViz plugin for class hierarchy visualization: https://protegewiki.stanford.edu/wiki/OWLViz
