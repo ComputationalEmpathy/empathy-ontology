@@ -33,7 +33,7 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 - ObjectPropertyDomain:	16	
 - ObjectPropertyRange:	17
 
-## Explore the ontology in open-source ontology editor - Protege
+## Explore the ontology in Protege - open-source ontology editor
 
 * Download the [empathy-ontology](https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c/empathy-ontology.owl)
 * Download Protege: https://protege.stanford.edu/
