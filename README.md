@@ -20,7 +20,7 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 ## Ontology Overview
 
-- Ontology IRI = https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c
+- Ontology IRI = https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c/empathy-ontology.owl
 - Class count:	118	
 - Object property count:	17
 - SubClassOf:	111
