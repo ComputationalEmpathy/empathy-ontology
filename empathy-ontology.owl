@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <Ontology xmlns="http://www.w3.org/2002/07/owl#"
-     xml:base="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology"
+     xml:base="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c/empathy-ontology.owl"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology">
+     ontologyIRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c/empathy-ontology.owl">
+    <Prefix name="" IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -1253,18 +1254,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="#Act"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Manifest"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="#Manifest"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Act"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
                 <Class IRI="#EmpathicAct"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1283,18 +1284,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="#Act"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Theory_of_mind"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="#Theory_of_mind"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Act"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
                 <Class IRI="#EmpathicAct"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1314,17 +1315,17 @@
         <Body>
             <ClassAtom>
                 <Class IRI="#Interpersonal"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
             <ClassAtom>
                 <Class IRI="#EmpathicManifest"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
                 <Class IRI="#EmpathicInterpersonal"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1343,18 +1344,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="#EmpathicToM"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Ratification"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="#Ratification"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#EmpathicToM"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
                 <Class IRI="#EmpathicRatification"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1373,18 +1374,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="#Perceive"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Manifest"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="#Manifest"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Perceive"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
                 <Class IRI="#EmpathicManifest"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1403,18 +1404,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="#Perceive"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Theory_of_mind"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="#Theory_of_mind"/>
-                <Variable IRI="#c"/>
+                <Class IRI="#Perceive"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
                 <Class IRI="#EmpathicToM"/>
-                <Variable IRI="#c"/>
+                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
