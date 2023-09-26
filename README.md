@@ -5,14 +5,6 @@ Empathy is a complex construct, and this ontology provides a formal representati
 
 ![Empathy Ontology](https://github.com/ComputationalEmpathy/empathy-ontology/blob/f9af1c7ebc78cf088df2d85e158f7dc05051015d/empathy_ontology.png).
 
-## Project Overview
-
-**Project Homepage:** [https://github.com/ComputationalEmpathy/empathy-ontology/](https://github.com/ComputationalEmpathy/empathy-ontology/)
-
-**Namespace:** https://github.com/ComputationalEmpathy/empathy-ontology#
-
-**Typical Prefix:** cemp:
-
 ## Taxonomy and Dimensions
 
 The Empathy Ontology structures concepts hierarchically. Primary dimensions include:
@@ -25,6 +17,15 @@ The Empathy Ontology structures concepts hierarchically. Primary dimensions incl
 - Interpersonal
 
 These encompass sub-dimensions, capturing hierarchical relationships.
+
+## Ontology Overview
+
+- Class count:	118	
+- Object property count:	17
+- SubClassOf:	111
+- SubObjectPropertyOf:	16	
+- ObjectPropertyDomain:	16	
+- ObjectPropertyRange:	17
 
 ## Examples and Applications
 
