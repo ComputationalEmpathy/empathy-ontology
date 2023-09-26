@@ -25,7 +25,8 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 ## Ontology Overview
 
-- Ontology IRI: https://github.com/ComputationalEmpathy/empathy-ontology/blob/1aaa2f15de1c75961a2337389f9948811f72286a/empathy-ontology.owl
+- Ontology IRI: https://github.com/ComputationalEmpathy/empathy-ontology
+- Raw Permalink: https://raw.githubusercontent.com/ComputationalEmpathy/empathy-ontology/main/empathy-ontology.owl
 - Class count:	118	
 - Object property count:	17
 - SubClassOf:	111
@@ -35,7 +36,6 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 ## Explore the ontology in Protege - open-source ontology editor
 
-* Download the [empathy-ontology](https://github.com/ComputationalEmpathy/empathy-ontology/blob/1aaa2f15de1c75961a2337389f9948811f72286a/empathy-ontology.owl)
 * Download Protege: https://protege.stanford.edu/
 * Install the OWLViz plugin for class hierarchy visualization: https://protegewiki.stanford.edu/wiki/OWLViz
 
