@@ -17,1226 +17,1226 @@
         <Literal>This is an ontology for representing Computational Empathy.</Literal>
     </Annotation>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Activity"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Activity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Body_language"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Body_language"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Context"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Demography"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Demography"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Duration"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Duration"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Emotion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Environment"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Environment"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Facial_expressions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Facial_expressions"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Interaction_Property"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Mood"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Presence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Presence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Response_content_level"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Response_content_level"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Response_rate"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Response_rate"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Speech"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Speech"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Temporal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Temporal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Text"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Text"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Time"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Time"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Active_listener"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Active_listener"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Admit_mistakes"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Admit_mistakes"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Avoid_self_promotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Avoid_self_promotion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Careful_decisions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Careful_decisions"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Communicate_clearly"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Communicate_clearly"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_emotion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_message"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_mood"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Consistency"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Consistency"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicAct"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicAct"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicInterpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicInterpersonal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicManifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicManifest"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicPerceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicPerceive"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicRatification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicRatification"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicToM"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicToM"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Follow_values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Follow_values"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Helpfulness"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Helpfulness"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Honor_commitments"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Honor_commitments"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Interconnecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Interconnecting"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Social_bonding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Social_bonding"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Tolerance_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Tolerance_building"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Agreements"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Deception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Deception"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Emotion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Errors"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Family"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Family"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Friend"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Friend"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Goals"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Goals"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Inconsistence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Inconsistence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Misperception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Misperception"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Misunderstanding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Misunderstanding"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Mood"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Needs"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Needs"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Personal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Personal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Personality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Personality"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Professional"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Professional"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Rapport"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Rapport"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Trust"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Trust"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Unfamiliar"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Unfamiliar"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Values"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Openness"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Openness"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Activity"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Activity"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Behavior"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Body_language"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Body_language"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Context"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Demography"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Demography"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Duration"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Duration"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Emotion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Environment"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Environment"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Facial_expressions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Facial_expressions"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Interaction_Property"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Mood"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Presence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Presence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Response_content_level"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Response_content_level"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Response_rate"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Response_rate"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Speech"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Speech"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Temporal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Temporal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Text"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Text"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Time"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Time"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Acceptance"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Acceptance"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Agreements"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Equality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Equality"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Mutuality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Mutuality"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Recognize_others"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Recognize_others"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Respectful_feedback"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Respectful_feedback"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Show_feelings"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Show_feelings"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Agreements"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Deception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Deception"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Emotion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Errors"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Family"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Family"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Friend"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Friend"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Goals"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Goals"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Inconsistence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Inconsistence"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Misperception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Misperception"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Misunderstanding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Misunderstanding"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Mood"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Needs"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Needs"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Personal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Personal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Personality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Personality"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Professional"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Professional"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Rapport"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Rapport"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Trust"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Trust"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Unfamiliar"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Unfamiliar"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Values"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_isAffecting_Manifest"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isAffecting_Manifest"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isMaintaining_Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isMaintaining_Ratification"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isAffecting_Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isAffecting_Theory_of_mind"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isEnabling_Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isEnabling_Interpersonal"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Act"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Perceive"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Perceive"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isAffecting_Manifest"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isReflectedIn_Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isReflectedIn_Theory_of_mind"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isAffecting_Manifest"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isEnhancing_Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isEnhancing_Interpersonal"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isAffecting_Manifest"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isEnabling_Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isEnabling_Ratification"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isTailoring_Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isTailoring_Act"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isAffecting"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isAffecting"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isInfluencing"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isInfluencing"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Emotion1"/>
+        <NamedIndividual IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Emotion1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmotionCue1"/>
+        <NamedIndividual IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmotionCue1"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
     </Declaration>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Activity"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Activity"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Behavior"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Body_language"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Body_language"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Context"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Demography"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Demography"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Duration"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Duration"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Environment"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Environment"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Facial_expressions"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Facial_expressions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Interaction_Property"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Mood"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Presence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Presence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Response_content_level"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Response_content_level"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Response_rate"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Response_rate"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Speech"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Speech"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Temporal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Temporal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Text"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Text"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Time"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Time"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Active_listener"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Active_listener"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Admit_mistakes"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Admit_mistakes"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Avoid_self_promotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Avoid_self_promotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Careful_decisions"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Careful_decisions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Communicate_clearly"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Communicate_clearly"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_behavior"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Interconnecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Interconnecting"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Interconnecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Interconnecting"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_message"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Interconnecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Interconnecting"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_mood"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Interconnecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Interconnecting"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Consistency"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Consistency"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Follow_values"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Follow_values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Helpfulness"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Helpfulness"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Honor_commitments"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Honor_commitments"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Interconnecting"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Interconnecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Social_bonding"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Social_bonding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Tolerance_building"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Tolerance_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Agreements"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Deception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Deception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Errors"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Family"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Family"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Friend"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Friend"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Goals"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Goals"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Inconsistence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Inconsistence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Misperception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Misperception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Misunderstanding"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Misunderstanding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Mood"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Needs"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Needs"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Personal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Personal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Personality"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Personality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Professional"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Professional"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Rapport"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Rapport"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Trust"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Trust"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Unfamiliar"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Unfamiliar"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Values"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Openness"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Openness"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Activity"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Activity"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Behavior"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Body_language"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Body_language"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Context"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Demography"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Demography"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Duration"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Duration"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Environment"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Environment"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Facial_expressions"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Facial_expressions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Interaction_Property"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Mood"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Presence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Presence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Response_content_level"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Response_content_level"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Response_rate"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Response_rate"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Speech"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Speech"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Temporal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Temporal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Context"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Text"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Text"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Time"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Time"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Interaction_Property"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Acceptance"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Acceptance"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Agreements"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Equality"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Equality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Mutuality"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Mutuality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Recognize_others"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Recognize_others"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Respectful_feedback"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Respectful_feedback"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Show_feelings"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Show_feelings"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Agreements"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Deception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Deception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Errors"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Family"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Family"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Friend"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Friend"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Goals"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Goals"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Inconsistence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Inconsistence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Misperception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Misperception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Misunderstanding"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Misunderstanding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Errors"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Mood"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Needs"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Needs"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Personal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Personal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Personality"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Personality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Professional"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Professional"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Rapport"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Rapport"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Trust"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Trust"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Unfamiliar"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Unfamiliar"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Values"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </SubClassOf>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Activity"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Demography"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Environment"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Temporal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Activity"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Demography"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Environment"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Temporal"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Behavior"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Context"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Interaction_Property"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Message"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Mood"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Body_language"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Facial_expressions"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Presence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Speech"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Text"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Body_language"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Facial_expressions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Presence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Speech"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Text"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Duration"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Response_content_level"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Response_rate"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_Time"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Duration"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Response_content_level"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Response_rate"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_Time"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Active_listener"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Admit_mistakes"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Avoid_self_promotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Careful_decisions"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Communicate_clearly"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Consistency"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Follow_values"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Helpfulness"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Honor_commitments"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Openness"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Recognize_others"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Respectful_feedback"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Show_feelings"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Active_listener"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Admit_mistakes"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Avoid_self_promotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Careful_decisions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Communicate_clearly"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Consistency"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Follow_values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Helpfulness"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Honor_commitments"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Openness"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Recognize_others"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Respectful_feedback"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Show_feelings"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_behavior"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_message"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Connected_mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Connected_mood"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicAct"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicInterpersonal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicManifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicPerceive"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicRatification"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicToM"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Empathy_dimension"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicAct"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicInterpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicManifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicPerceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicRatification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicToM"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Empathy_dimension"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Interconnecting"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Social_bonding"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Tolerance_building"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_Trust_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Interconnecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Social_bonding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Tolerance_building"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_Trust_building"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Agreements"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Errors"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Goals"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Mood"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Needs"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Personality"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Rapport"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social_Bond"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Trust"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Goals"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Needs"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Personality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Rapport"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Trust"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Values"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Deception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Inconsistence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Misperception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Misunderstanding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Deception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Inconsistence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Misperception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Misunderstanding"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Family"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Friend"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Personal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Professional"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Social"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Unfamiliar"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Family"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Friend"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Personal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Professional"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Social"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Unfamiliar"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Activity"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Demography"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Environment"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Temporal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Activity"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Demography"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Environment"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Temporal"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Behavior"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Context"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Interaction_Property"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Message"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Behavior"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Context"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Interaction_Property"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Message"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Mood"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Body_language"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Facial_expressions"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Presence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Speech"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Text"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Body_language"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Facial_expressions"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Presence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Speech"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Text"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Duration"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Response_content_level"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Response_rate"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Time"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Duration"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Response_content_level"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Response_rate"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Time"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Acceptance"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Agreements"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Equality"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_Mutuality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Acceptance"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Equality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_Mutuality"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Agreements"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Emotion"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Errors"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Goals"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Mood"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Needs"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Personality"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Rapport"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social_Bond"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Trust"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Values"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Agreements"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Emotion"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Errors"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Goals"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Mood"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Needs"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Personality"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Rapport"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social_Bond"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Trust"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Values"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Deception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Inconsistence"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Misperception"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Misunderstanding"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Deception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Inconsistence"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Misperception"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Misunderstanding"/>
     </DisjointClasses>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Family"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Friend"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Personal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Professional"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Social"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Tom_Unfamiliar"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Family"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Friend"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Personal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Professional"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Social"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Tom_Unfamiliar"/>
     </DisjointClasses>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Emotion"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Emotion1"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Emotion"/>
+        <NamedIndividual IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Emotion1"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Emotion"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmotionCue1"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Emotion"/>
+        <NamedIndividual IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmotionCue1"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isAffecting"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmotionCue1"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Emotion1"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isAffecting"/>
+        <NamedIndividual IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmotionCue1"/>
+        <NamedIndividual IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Emotion1"/>
     </ObjectPropertyAssertion>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_isAffecting_Manifest"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isAffecting_Manifest"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isMaintaining_Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isMaintaining_Ratification"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isAffecting_Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isAffecting_Theory_of_mind"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isEnabling_Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isEnabling_Interpersonal"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Act"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Perceive"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Perceive"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isAffecting_Manifest"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isReflectedIn_Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isReflectedIn_Theory_of_mind"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isAffecting_Manifest"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isEnhancing_Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isEnhancing_Interpersonal"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isAffecting_Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isAffecting_Manifest"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isEnabling_Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isEnabling_Ratification"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isTailoring_Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isTailoring_Act"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isAffecting"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isAffecting"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isInfluencing"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isInfluencing"/>
         <ObjectProperty IRI="topObjectProperty"/>
     </SubObjectPropertyOf>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isMaintaining_Ratification"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isMaintaining_Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isAffecting_Theory_of_mind"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isAffecting_Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isEnabling_Interpersonal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isEnabling_Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Act"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Perceive"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isReflectedIn_Theory_of_mind"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isReflectedIn_Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isEnhancing_Interpersonal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isEnhancing_Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isEnabling_Ratification"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isEnabling_Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isTailoring_Act"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isTailoring_Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isAffecting"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_Emotion"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isAffecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_Emotion"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isInfluencing"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isInfluencing"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal_isMaintaining_Ratification"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal_isMaintaining_Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isAffecting_Theory_of_mind"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isAffecting_Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isEnabling_Interpersonal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isEnabling_Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Act"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_isInfluencing_Perceive"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_isInfluencing_Perceive"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive_isReflectedIn_Theory_of_mind"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive_isReflectedIn_Theory_of_mind"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification_isEnhancing_Interpersonal"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification_isEnhancing_Interpersonal"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isAffecting_Manifest"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isAffecting_Manifest"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isEnabling_Ratification"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isEnabling_Ratification"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind_isTailoring_Act"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind_isTailoring_Act"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isAffecting"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest_Emotion"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isAffecting"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest_Emotion"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isInfluencing"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isInfluencing"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#isInfluencing"/>
-        <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
+        <ObjectProperty IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#isInfluencing"/>
+        <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
     </ObjectPropertyRange>
     <DLSafeRule>
         <Annotation>
@@ -1253,18 +1253,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicAct"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicAct"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1283,18 +1283,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Act"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Act"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicAct"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicAct"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1313,18 +1313,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Interpersonal"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Interpersonal"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicManifest"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicManifest"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicInterpersonal"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicInterpersonal"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1343,18 +1343,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicToM"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicToM"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Ratification"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Ratification"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicRatification"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicRatification"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1373,18 +1373,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Manifest"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Manifest"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicManifest"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicManifest"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
@@ -1403,18 +1403,18 @@
         </Annotation>
         <Body>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Perceive"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Perceive"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#Theory_of_mind"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#Theory_of_mind"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Body>
         <Head>
             <ClassAtom>
-                <Class IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#EmpathicToM"/>
-                <Variable IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology#c"/>
+                <Class IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#EmpathicToM"/>
+                <Variable IRI="https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c#c"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
