@@ -1,0 +1,1426 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Prefix name="coempathy" IRI="http://www.semanticweb.org/andreasb/ontologies/2022/11/empathy-ontology"/>
+    <Annotation>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <Literal>This is an ontology for representing Computational Empathy.</Literal>
+    </Annotation>
+    <Declaration>
+        <Class IRI="#Act"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Activity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Body_language"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Context"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Demography"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Duration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Facial_expressions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Interaction_Property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Message"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Mood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Presence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Response_content_level"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Response_rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Speech"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Temporal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Text"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Act_Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Active_listener"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Admit_mistakes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Avoid_self_promotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Careful_decisions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Communicate_clearly"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Connected_behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Connected_emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Connected_message"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Connected_mood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Consistency"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmpathicAct"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmpathicInterpersonal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmpathicManifest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmpathicPerceive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmpathicRatification"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmpathicToM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Empathy_dimension"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Follow_values"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Helpfulness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Honor_commitments"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interpersonal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interpersonal_Interconnecting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interpersonal_Social_bonding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interpersonal_Tolerance_building"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Agreements"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Deception"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Errors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Family"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Friend"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Goals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Inconsistence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Misperception"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Misunderstanding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Mood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Needs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Personal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Personality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Professional"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Rapport"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Social"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Social_Bond"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Trust"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Unfamiliar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Manifest_Values"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Openness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Activity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Behavior"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Body_language"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Context"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Demography"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Duration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Environment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Facial_expressions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Interaction_Property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Message"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Mood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Presence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Response_content_level"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Response_rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Speech"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Temporal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Text"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceive_Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ratification"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ratification_Acceptance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ratification_Agreements"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ratification_Equality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ratification_Mutuality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Recognize_others"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Respectful_feedback"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Show_feelings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Theory_of_mind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Agreements"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Deception"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Errors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Family"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Friend"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Goals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Inconsistence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Misperception"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Misunderstanding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Mood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Needs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Personal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Personality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Professional"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Rapport"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Social"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Social_Bond"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Trust"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Unfamiliar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tom_Values"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Act_isAffecting_Manifest"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Interpersonal_isAffecting_Manifest"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Interpersonal_isMaintaining_Ratification"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Manifest_isAffecting_Theory_of_mind"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Manifest_isEnabling_Interpersonal"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Act"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Perceive"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Perceive_isAffecting_Manifest"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Perceive_isReflectedIn_Theory_of_mind"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Ratification_isAffecting_Manifest"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Ratification_isEnhancing_Interpersonal"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Theory_of_mind_isAffecting_Manifest"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Theory_of_mind_isEnabling_Ratification"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#Theory_of_mind_isTailoring_Act"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isAffecting"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isInfluencing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Emotion1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#EmotionCue1"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Act"/>
+        <Class IRI="#Empathy_dimension"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Activity"/>
+        <Class IRI="#Act_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Behavior"/>
+        <Class IRI="#Act"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Body_language"/>
+        <Class IRI="#Act_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Context"/>
+        <Class IRI="#Act"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Demography"/>
+        <Class IRI="#Act_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Duration"/>
+        <Class IRI="#Act_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Emotion"/>
+        <Class IRI="#Act"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Environment"/>
+        <Class IRI="#Act_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Facial_expressions"/>
+        <Class IRI="#Act_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Interaction_Property"/>
+        <Class IRI="#Act"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Message"/>
+        <Class IRI="#Act"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Mood"/>
+        <Class IRI="#Act"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Presence"/>
+        <Class IRI="#Act_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Response_content_level"/>
+        <Class IRI="#Act_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Response_rate"/>
+        <Class IRI="#Act_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Speech"/>
+        <Class IRI="#Act_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Temporal"/>
+        <Class IRI="#Act_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Text"/>
+        <Class IRI="#Act_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Act_Time"/>
+        <Class IRI="#Act_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Active_listener"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Admit_mistakes"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Avoid_self_promotion"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Careful_decisions"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Communicate_clearly"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Connected_behavior"/>
+        <Class IRI="#Interpersonal_Interconnecting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Connected_emotion"/>
+        <Class IRI="#Interpersonal_Interconnecting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Connected_message"/>
+        <Class IRI="#Interpersonal_Interconnecting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Connected_mood"/>
+        <Class IRI="#Interpersonal_Interconnecting"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Consistency"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Follow_values"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Helpfulness"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Honor_commitments"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interpersonal"/>
+        <Class IRI="#Empathy_dimension"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interpersonal_Interconnecting"/>
+        <Class IRI="#Interpersonal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interpersonal_Social_bonding"/>
+        <Class IRI="#Interpersonal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interpersonal_Tolerance_building"/>
+        <Class IRI="#Interpersonal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Interpersonal_Trust_building"/>
+        <Class IRI="#Interpersonal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest"/>
+        <Class IRI="#Empathy_dimension"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Agreements"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Deception"/>
+        <Class IRI="#Manifest_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Emotion"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Errors"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Family"/>
+        <Class IRI="#Manifest_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Friend"/>
+        <Class IRI="#Manifest_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Goals"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Inconsistence"/>
+        <Class IRI="#Manifest_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Misperception"/>
+        <Class IRI="#Manifest_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Misunderstanding"/>
+        <Class IRI="#Manifest_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Mood"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Needs"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Personal"/>
+        <Class IRI="#Manifest_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Personality"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Professional"/>
+        <Class IRI="#Manifest_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Rapport"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Social"/>
+        <Class IRI="#Manifest_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Social_Bond"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Trust"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Unfamiliar"/>
+        <Class IRI="#Manifest_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Manifest_Values"/>
+        <Class IRI="#Manifest"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Openness"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive"/>
+        <Class IRI="#Empathy_dimension"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Activity"/>
+        <Class IRI="#Perceive_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Behavior"/>
+        <Class IRI="#Perceive"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Body_language"/>
+        <Class IRI="#Perceive_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Context"/>
+        <Class IRI="#Perceive"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Demography"/>
+        <Class IRI="#Perceive_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Duration"/>
+        <Class IRI="#Perceive_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Emotion"/>
+        <Class IRI="#Perceive"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Environment"/>
+        <Class IRI="#Perceive_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Facial_expressions"/>
+        <Class IRI="#Perceive_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Interaction_Property"/>
+        <Class IRI="#Perceive"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Message"/>
+        <Class IRI="#Perceive"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Mood"/>
+        <Class IRI="#Perceive"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Presence"/>
+        <Class IRI="#Perceive_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Response_content_level"/>
+        <Class IRI="#Perceive_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Response_rate"/>
+        <Class IRI="#Perceive_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Speech"/>
+        <Class IRI="#Perceive_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Temporal"/>
+        <Class IRI="#Perceive_Context"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Text"/>
+        <Class IRI="#Perceive_Message"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceive_Time"/>
+        <Class IRI="#Perceive_Interaction_Property"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ratification"/>
+        <Class IRI="#Empathy_dimension"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ratification_Acceptance"/>
+        <Class IRI="#Ratification"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ratification_Agreements"/>
+        <Class IRI="#Ratification"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ratification_Equality"/>
+        <Class IRI="#Ratification"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ratification_Mutuality"/>
+        <Class IRI="#Ratification"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Recognize_others"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Respectful_feedback"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Show_feelings"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Theory_of_mind"/>
+        <Class IRI="#Empathy_dimension"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Agreements"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Deception"/>
+        <Class IRI="#Tom_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Emotion"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Errors"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Family"/>
+        <Class IRI="#Tom_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Friend"/>
+        <Class IRI="#Tom_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Goals"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Inconsistence"/>
+        <Class IRI="#Tom_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Misperception"/>
+        <Class IRI="#Tom_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Misunderstanding"/>
+        <Class IRI="#Tom_Errors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Mood"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Needs"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Personal"/>
+        <Class IRI="#Tom_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Personality"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Professional"/>
+        <Class IRI="#Tom_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Rapport"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Social"/>
+        <Class IRI="#Tom_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Social_Bond"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Trust"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Unfamiliar"/>
+        <Class IRI="#Tom_Social_Bond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tom_Values"/>
+        <Class IRI="#Theory_of_mind"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Act"/>
+        <Class IRI="#Interpersonal"/>
+        <Class IRI="#Manifest"/>
+        <Class IRI="#Perceive"/>
+        <Class IRI="#Ratification"/>
+        <Class IRI="#Theory_of_mind"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Act_Activity"/>
+        <Class IRI="#Act_Demography"/>
+        <Class IRI="#Act_Environment"/>
+        <Class IRI="#Act_Temporal"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Act_Behavior"/>
+        <Class IRI="#Act_Context"/>
+        <Class IRI="#Act_Emotion"/>
+        <Class IRI="#Act_Interaction_Property"/>
+        <Class IRI="#Act_Message"/>
+        <Class IRI="#Act_Mood"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Act_Body_language"/>
+        <Class IRI="#Act_Facial_expressions"/>
+        <Class IRI="#Act_Presence"/>
+        <Class IRI="#Act_Speech"/>
+        <Class IRI="#Act_Text"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Act_Duration"/>
+        <Class IRI="#Act_Response_content_level"/>
+        <Class IRI="#Act_Response_rate"/>
+        <Class IRI="#Act_Time"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Active_listener"/>
+        <Class IRI="#Admit_mistakes"/>
+        <Class IRI="#Avoid_self_promotion"/>
+        <Class IRI="#Careful_decisions"/>
+        <Class IRI="#Communicate_clearly"/>
+        <Class IRI="#Consistency"/>
+        <Class IRI="#Follow_values"/>
+        <Class IRI="#Helpfulness"/>
+        <Class IRI="#Honor_commitments"/>
+        <Class IRI="#Openness"/>
+        <Class IRI="#Recognize_others"/>
+        <Class IRI="#Respectful_feedback"/>
+        <Class IRI="#Show_feelings"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Connected_behavior"/>
+        <Class IRI="#Connected_emotion"/>
+        <Class IRI="#Connected_message"/>
+        <Class IRI="#Connected_mood"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#EmpathicAct"/>
+        <Class IRI="#EmpathicInterpersonal"/>
+        <Class IRI="#EmpathicManifest"/>
+        <Class IRI="#EmpathicPerceive"/>
+        <Class IRI="#EmpathicRatification"/>
+        <Class IRI="#EmpathicToM"/>
+        <Class IRI="#Empathy_dimension"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Interpersonal_Interconnecting"/>
+        <Class IRI="#Interpersonal_Social_bonding"/>
+        <Class IRI="#Interpersonal_Tolerance_building"/>
+        <Class IRI="#Interpersonal_Trust_building"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Manifest_Agreements"/>
+        <Class IRI="#Manifest_Emotion"/>
+        <Class IRI="#Manifest_Errors"/>
+        <Class IRI="#Manifest_Goals"/>
+        <Class IRI="#Manifest_Mood"/>
+        <Class IRI="#Manifest_Needs"/>
+        <Class IRI="#Manifest_Personality"/>
+        <Class IRI="#Manifest_Rapport"/>
+        <Class IRI="#Manifest_Social_Bond"/>
+        <Class IRI="#Manifest_Trust"/>
+        <Class IRI="#Manifest_Values"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Manifest_Deception"/>
+        <Class IRI="#Manifest_Inconsistence"/>
+        <Class IRI="#Manifest_Misperception"/>
+        <Class IRI="#Manifest_Misunderstanding"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Manifest_Family"/>
+        <Class IRI="#Manifest_Friend"/>
+        <Class IRI="#Manifest_Personal"/>
+        <Class IRI="#Manifest_Professional"/>
+        <Class IRI="#Manifest_Social"/>
+        <Class IRI="#Manifest_Unfamiliar"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Perceive_Activity"/>
+        <Class IRI="#Perceive_Demography"/>
+        <Class IRI="#Perceive_Environment"/>
+        <Class IRI="#Perceive_Temporal"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Perceive_Behavior"/>
+        <Class IRI="#Perceive_Context"/>
+        <Class IRI="#Perceive_Emotion"/>
+        <Class IRI="#Perceive_Interaction_Property"/>
+        <Class IRI="#Perceive_Message"/>
+        <Class IRI="#Perceive_Mood"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Perceive_Body_language"/>
+        <Class IRI="#Perceive_Facial_expressions"/>
+        <Class IRI="#Perceive_Presence"/>
+        <Class IRI="#Perceive_Speech"/>
+        <Class IRI="#Perceive_Text"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Perceive_Duration"/>
+        <Class IRI="#Perceive_Response_content_level"/>
+        <Class IRI="#Perceive_Response_rate"/>
+        <Class IRI="#Perceive_Time"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Ratification_Acceptance"/>
+        <Class IRI="#Ratification_Agreements"/>
+        <Class IRI="#Ratification_Equality"/>
+        <Class IRI="#Ratification_Mutuality"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Tom_Agreements"/>
+        <Class IRI="#Tom_Emotion"/>
+        <Class IRI="#Tom_Errors"/>
+        <Class IRI="#Tom_Goals"/>
+        <Class IRI="#Tom_Mood"/>
+        <Class IRI="#Tom_Needs"/>
+        <Class IRI="#Tom_Personality"/>
+        <Class IRI="#Tom_Rapport"/>
+        <Class IRI="#Tom_Social_Bond"/>
+        <Class IRI="#Tom_Trust"/>
+        <Class IRI="#Tom_Values"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Tom_Deception"/>
+        <Class IRI="#Tom_Inconsistence"/>
+        <Class IRI="#Tom_Misperception"/>
+        <Class IRI="#Tom_Misunderstanding"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Tom_Family"/>
+        <Class IRI="#Tom_Friend"/>
+        <Class IRI="#Tom_Personal"/>
+        <Class IRI="#Tom_Professional"/>
+        <Class IRI="#Tom_Social"/>
+        <Class IRI="#Tom_Unfamiliar"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#Manifest_Emotion"/>
+        <NamedIndividual IRI="#Emotion1"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Perceive_Emotion"/>
+        <NamedIndividual IRI="#EmotionCue1"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#isAffecting"/>
+        <NamedIndividual IRI="#EmotionCue1"/>
+        <NamedIndividual IRI="#Emotion1"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Act_isAffecting_Manifest"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Interpersonal_isAffecting_Manifest"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Interpersonal_isMaintaining_Ratification"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Manifest_isAffecting_Theory_of_mind"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Manifest_isEnabling_Interpersonal"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Act"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Perceive"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Perceive_isAffecting_Manifest"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Perceive_isReflectedIn_Theory_of_mind"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Ratification_isAffecting_Manifest"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Ratification_isEnhancing_Interpersonal"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Theory_of_mind_isAffecting_Manifest"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Theory_of_mind_isEnabling_Ratification"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#Theory_of_mind_isTailoring_Act"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isAffecting"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#isInfluencing"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Act_isAffecting_Manifest"/>
+        <Class IRI="#Act"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Interpersonal_isAffecting_Manifest"/>
+        <Class IRI="#Interpersonal"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Interpersonal_isMaintaining_Ratification"/>
+        <Class IRI="#Interpersonal"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Manifest_isAffecting_Theory_of_mind"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Manifest_isEnabling_Interpersonal"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Act"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Perceive"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Perceive_isAffecting_Manifest"/>
+        <Class IRI="#Perceive"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Perceive_isReflectedIn_Theory_of_mind"/>
+        <Class IRI="#Perceive"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Ratification_isAffecting_Manifest"/>
+        <Class IRI="#Ratification"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Ratification_isEnhancing_Interpersonal"/>
+        <Class IRI="#Ratification"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Theory_of_mind_isAffecting_Manifest"/>
+        <Class IRI="#Theory_of_mind"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Theory_of_mind_isEnabling_Ratification"/>
+        <Class IRI="#Theory_of_mind"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#Theory_of_mind_isTailoring_Act"/>
+        <Class IRI="#Theory_of_mind"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isAffecting"/>
+        <Class IRI="#Perceive_Emotion"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isInfluencing"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Act_isAffecting_Manifest"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Interpersonal_isAffecting_Manifest"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Interpersonal_isMaintaining_Ratification"/>
+        <Class IRI="#Ratification"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Manifest_isAffecting_Theory_of_mind"/>
+        <Class IRI="#Theory_of_mind"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Manifest_isEnabling_Interpersonal"/>
+        <Class IRI="#Interpersonal"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Act"/>
+        <Class IRI="#Act"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Manifest_isInfluencing_Perceive"/>
+        <Class IRI="#Perceive"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Perceive_isAffecting_Manifest"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Perceive_isReflectedIn_Theory_of_mind"/>
+        <Class IRI="#Theory_of_mind"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Ratification_isAffecting_Manifest"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Ratification_isEnhancing_Interpersonal"/>
+        <Class IRI="#Interpersonal"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Theory_of_mind_isAffecting_Manifest"/>
+        <Class IRI="#Manifest"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Theory_of_mind_isEnabling_Ratification"/>
+        <Class IRI="#Ratification"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#Theory_of_mind_isTailoring_Act"/>
+        <Class IRI="#Act"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isAffecting"/>
+        <Class IRI="#Manifest_Emotion"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isInfluencing"/>
+        <Class IRI="#Act"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isInfluencing"/>
+        <Class IRI="#Perceive"/>
+    </ObjectPropertyRange>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal>EmpathicAct1</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#Act"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+            <ClassAtom>
+                <Class IRI="#Manifest"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ClassAtom>
+                <Class IRI="#EmpathicAct"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Head>
+    </DLSafeRule>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal>EmpathicAct2</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#Act"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+            <ClassAtom>
+                <Class IRI="#Theory_of_mind"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ClassAtom>
+                <Class IRI="#EmpathicAct"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Head>
+    </DLSafeRule>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal>EmpathicInterpersonal</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#Interpersonal"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+            <ClassAtom>
+                <Class IRI="#EmpathicManifest"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ClassAtom>
+                <Class IRI="#EmpathicInterpersonal"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Head>
+    </DLSafeRule>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal>EmpathicRatification</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#EmpathicToM"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+            <ClassAtom>
+                <Class IRI="#Ratification"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ClassAtom>
+                <Class IRI="#EmpathicRatification"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Head>
+    </DLSafeRule>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal>EmpathicManifest</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#Perceive"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+            <ClassAtom>
+                <Class IRI="#Manifest"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ClassAtom>
+                <Class IRI="#EmpathicManifest"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Head>
+    </DLSafeRule>
+    <DLSafeRule>
+        <Annotation>
+            <AnnotationProperty IRI="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+            <Literal></Literal>
+        </Annotation>
+        <Annotation>
+            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+            <Literal>EmpathicToM</Literal>
+        </Annotation>
+        <Body>
+            <ClassAtom>
+                <Class IRI="#Perceive"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+            <ClassAtom>
+                <Class IRI="#Theory_of_mind"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Body>
+        <Head>
+            <ClassAtom>
+                <Class IRI="#EmpathicToM"/>
+                <Variable IRI="#c"/>
+            </ClassAtom>
+        </Head>
+    </DLSafeRule>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
