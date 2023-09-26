@@ -34,6 +34,7 @@ The Empathy Ontology aids researchers and practitioners in understanding, assess
 
 ## Explore the ontology in open-source ontology editor - Protege
 
+* Download the [empathy-ontology](https://github.com/ComputationalEmpathy/empathy-ontology/blob/c84e5761cdd4029fa6f38b716ca07c2477b2042c/empathy-ontology.owl)
 * Download Protege: https://protege.stanford.edu/
 * Install the OWLViz plugin for class hierarchy visualization: https://protegewiki.stanford.edu/wiki/OWLViz
 
