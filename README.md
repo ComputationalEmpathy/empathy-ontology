@@ -9,7 +9,8 @@ The Empathy Ontology may aid researchers and practitioners in understanding, ass
 
 ## Authors (Anonymous)
 - Awaiting publication. Anonymous authors to respect the reviewing process. 
-
+- Author details to be updated after publication.
+  
 ## Taxonomy and Dimensions
 
 The Empathy Ontology structures concepts hierarchically. Primary dimensions include:
