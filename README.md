@@ -39,7 +39,7 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 * Download Protege: https://protege.stanford.edu/
 * Install the OWLViz plugin for class hierarchy visualization: https://protegewiki.stanford.edu/wiki/OWLViz
-* Open the empathy-ontology.owl file in Protege
+* Open the [empathy-ontology.owl](https://raw.githubusercontent.com/ComputationalEmpathy/empathy-ontology/main/empathy-ontology.owl) file in Protege
 * Explore: Classes, Object Properties and Data Protperties
 
 ## Run in ontology reasoner
