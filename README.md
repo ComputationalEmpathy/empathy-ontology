@@ -39,7 +39,7 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 
 * Download Protege: https://protege.stanford.edu/
 * Install the OWLViz plugin for class hierarchy visualization: https://protegewiki.stanford.edu/wiki/OWLViz
-* Open the .owl file in Protege
+* Open the empathy-ontology.owl file in Protege
 * Explore: Classes, Object Properties and Data Protperties
 
 ## Run in ontology reasoner
@@ -52,5 +52,5 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 * More info: https://www.vistology.com/products/
 
 Create a .bvr file according to the BaseVISor documentation, and do the following: 
-  * Add relativePath="ontology.owl" and set it to the path of the ontology in your local drive.
+  * Add relativePath="empathy-ontology.owl" and set it to the path of the ontology in your local drive.
   * Run the BaseVISor executable with your .bvr file.
