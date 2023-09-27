@@ -35,13 +35,11 @@ These encompass sub-dimensions, capturing hierarchical relationships.
 - ObjectPropertyDomain:	16	
 - ObjectPropertyRange:	17
 
-## Explore the ontology in Protege - open-source ontology editor
+## Explore the ontology in Protégé: open-source ontology editor
 
 * Download Protege: https://protege.stanford.edu/
 * Install the OWLViz plugin for class hierarchy visualization: https://protegewiki.stanford.edu/wiki/OWLViz
-
 * Open the .owl file in Protege
-
 * Explore: Classes, Object Properties and Data Protperties
 
 ## Run in ontology reasoner
