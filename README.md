@@ -12,7 +12,7 @@ The Empathy Ontology may aid researchers and practitioners in understanding, ass
 - Joel Wester {[joelw@cs.aau.dk](joelw@cs.aau.dk)} Aalborg University, Denmark
 - Juan Carlos Nieves {[jcnieves@cs.umu.se](jcnieves@cs.umu.se)} Umeå University, Sweden
 
-## Publication
+## Journal Publication: Cognitive Systems Research
 Brännström, A., Wester, J., & Nieves, J. C. (in press). A Formal Understanding of Computational Empathy in Interactive Agents. Cognitive Systems Research.
   
 ## Taxonomy and Dimensions
