@@ -8,9 +8,9 @@ The Empathy Ontology may aid researchers and practitioners in understanding, ass
 ![Empathy Ontology](https://github.com/ComputationalEmpathy/empathy-ontology/blob/f9af1c7ebc78cf088df2d85e158f7dc05051015d/empathy_ontology.png).
 
 ## Authors
-- Andreas Brännström {[andreasb@cs.umu.se](andreasb@cs.umu.se)}
-- Joel Wester {[joelw@cs.aau.dk](joelw@cs.aau.dk)}
-- Juan Carlos Nieves {[jcnieves@cs.umu.se](jcnieves@cs.umu.se)} 
+- Andreas Brännström {[andreasb@cs.umu.se](andreasb@cs.umu.se)} Umeå University, Sweden
+- Joel Wester {[joelw@cs.aau.dk](joelw@cs.aau.dk)} Aalborg University, Denmark
+- Juan Carlos Nieves {[jcnieves@cs.umu.se](jcnieves@cs.umu.se)} Umeå University, Sweden
 
 ## Publication
 Brännström, A., Wester, J., & Nieves, J. C. (in press). A Formal Understanding of Computational Empathy in Interactive Agents. Cognitive Systems Research.
